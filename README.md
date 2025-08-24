@@ -35,3 +35,51 @@ Both components are designed to be reusable, scalable, and production-ready.
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+
+### 3.Run Storybook locally
+```bash
+npm run storybook
+```
+### 4. Build Storybook (for deployment)
+```bash
+npm run build-storybook
+```
+### 5. Run the project
+```bash
+npm run dev
+```
+### 💡 My Approach
+
+- Created InputField as a reusable component with multiple props to handle states, variants, and accessibility.
+
+- Built DataTable to handle real-world scenarios like sorting and filtering, ensuring scalability.
+
+- Ensured responsive design using Tailwind CSS.
+
+- Added Storybook documentation for each component.
+
+- Followed clean code principles and kept components modular.
+
+### 📦 Deployment
+
+The project is deployed on Vercel: 
+```bash
+https://ui-components-psi-eight.vercel.app/
+```
+### 🧑‍💻 Tech Stack
+
+- React
+
+- TypeScript
+
+- Tailwind CSS
+
+- Storybook
+
+- Vite
+
