@@ -34,7 +34,7 @@ Both components are designed to be reusable, scalable, and production-ready.
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/srijankishu/Ui-Components.git
-cd your-repo-name
+cd Ui-Components
 ```
 ### 2. Install Dependencies
 ```bash
